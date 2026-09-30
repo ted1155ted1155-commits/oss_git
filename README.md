@@ -3,3 +3,4 @@
 학번: 26153731
 학과: 컴퓨터소프트웨어학부
 My First Git Project
+My first Git Project
